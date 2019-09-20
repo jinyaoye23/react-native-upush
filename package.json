@@ -1,5 +1,5 @@
 {
-  "name": "react-native-u-push-module",
+  "name": "react-native-u-push",
   "title": "React Native U Push Module",
   "version": "1.0.0",
   "description": "TODO",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-u-push-module.git",
-    "baseUrl": "https://github.com/github_account/react-native-u-push-module"
+    "url": "git+https://github.com/jinyaoye23/react-native-upush.git",
+    "baseUrl": "https://github.com/jinyaoye23/react-native-upush"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Jinyaoye23",
+    "email": "jinyaoye23@126.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
